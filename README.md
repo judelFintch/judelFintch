@@ -23,6 +23,17 @@ Here are some ideas to get you started:
 📫 How to reach me: judel@fintchweb.com  
 ⚡ Fun fact: I love exploring new technologies and coding challenges during my free time!  
 
+
+### Languages and Tools
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
+![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
+
 ### Skills
 - **Web Hosting**: 
   - 🗓️ Log: Experienced in setting up and managing web hosting environments for various applications.
